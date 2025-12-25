@@ -31,7 +31,7 @@ Intersection Observer API для ленивой загрузки
 
 Структура проекта:
 
-'''
+```
 lab10-image-gallery/
 ├── node_modules/
 ├── public/
@@ -55,7 +55,7 @@ lab10-image-gallery/
 ├── package.json
 ├── README.md
 └── vite.config.js
-'''
+```
 
 
 Разделение работы между ИИ и разработчиком
@@ -109,7 +109,6 @@ lab10-image-gallery/
 ![alt text]({87C400D2-1B9B-4577-A2DE-9BF822903087}.png)
 ![alt text]({2627BD91-1051-4F7D-BE04-D1DC29D97FBC}.png)
 ![alt text]({2874A434-F0EC-4D9F-B5F7-242D2549FEA2}.png)
-![alt text]({E7496373-C1E3-45CB-A2F3-1834B97F06A0}.png)
 
 Особенности реализации
 Оптимизации производительности:
